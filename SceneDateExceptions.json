@@ -13,6 +13,7 @@
  * 261676 : WWE Superstars: 2014 11 20
  * 270262 : Late Night with Seth Meyers: 2014.11.13
  * 274099 : @midnight: 2014.11.13
+ * 286373 : The Nightly Show with Larry Wilmore: 2015 13 08
  */
 {
     "70366": "EEE, MMM D, YYYY",
@@ -28,5 +29,6 @@
     "194751": "YYYY MM DD",
     "261676": "YYYY MM DD",
     "270262": "YYYY MM DD",
-    "274099": "YYYY.MM.DD"
+    "274099": "YYYY.MM.DD",
+    "286373": "YYYY MM DD"
 }

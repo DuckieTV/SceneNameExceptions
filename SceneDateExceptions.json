@@ -7,6 +7,7 @@
     "72231": "YYYY MM DD",
     "72289": "YYYY MM DD",
     "75332": "YYYY-MM-DD",
+    "75640": "YYYY MM DD",
     "76573": "YYYY MM DD",
     "77075": "YYYY MM DD",
     "79274": "YYYY MM DD",
@@ -31,5 +32,7 @@
     "349320": "YYYY MM DD",
     "350513": "YYYY MM DD",
     "352240": "YYYY MM DD",
-    "353122": "YYYY MM DD"
+    "353122": "YYYY MM DD",
+    "354505": "YYYY MM DD",
+    "369003": "YYYY MM DD"
 }

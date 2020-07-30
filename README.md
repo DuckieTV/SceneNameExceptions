@@ -7,8 +7,8 @@ credits to Sickbeard's exception list: https://raw.github.com/midgetspy/sb_tvdb_
 
 filters applied:
 - Removed `(([12][09][0-9]{2}))` (all years between 19* and 20* within () )
-- Replaced `'` with `'`
+- Replaced `\'` with `'`
 - Replaced surrounding `'` with `"`
 - Replaced `.` with ` ` 
-- Remove special characters `(){}[]\|:;<>!@#$%^&*-=_+`
+- Remove special characters `(){}[]/\|:;<>!@#$%^&*-=_+`
 - line sort

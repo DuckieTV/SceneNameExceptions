@@ -1,7 +1,7 @@
 DuckieTV SceneNameExceptions
 ============================
 
-Maps TVDB ID's to Scene Names.
+Maps TRAKT_ID's to Scene Names.
 
 credits to Sickbeard's exception list: https://raw.github.com/midgetspy/sb_tvdb_scene_exceptions/gh-pages/exceptions.txt
 

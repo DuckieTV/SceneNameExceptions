@@ -1,5 +1,4 @@
-DuckieTV SceneNameExceptions
-============================
+# DuckieTV SceneNameExceptions
 
 Maps TRAKT_ID's to Scene Names.
 
@@ -13,11 +12,10 @@ filters applied:
 - Remove special characters `(){}[]/\|:;<>!@#$%^&*-=_+`
 - line sort
 ------------------
-List directory:
-===========
-TraktSceneDateExceptions.json contains trakt_id of series on the scene that use a date scheme instead of the usual SxxExx.
-SceneDateExceptions.json same as above but with tvdb_id as used by Dtv Nightly up to version 202101312304.
-TraktSceneNameExceptions.json contains trakt_id of series that use a different title to that provided by Trakt.tv.
-SceneNameExceptions.json same as above but with tvdb_id as used by Dtv Nightly up to version 202101312304.
-TraktidTvdbidXrefComplete.json A complete Xref of Trakt_id vs Tvdb_id, as extracted from Trakt.tv series records that have a tvdb_id, and manually supplemented by additional thetvdb lookups, for those Trakt.tv series records that are missing tvdb_ids. Created in case Trakt.tv decide to drop tvdb_id altogether.
-TraktidTvdbidXref.json contains manually curated Trakt_id vs tvdb_id, via a manual thetvdb lookup for those Trakt.tv series records that are missing tvdb_ids. 
+## List directory:
+- TraktSceneDateExceptions.json contains trakt_id of series on the scene that use a date scheme instead of the usual SxxExx.    
+- SceneDateExceptions.json same as above but with tvdb_id as used by Dtv Nightly up to version 202101312304.    
+- TraktSceneNameExceptions.json contains trakt_id of series that use a different title to that provided by Trakt.tv.    
+- SceneNameExceptions.json same as above but with tvdb_id as used by Dtv Nightly up to version 202101312304.    
+- TraktidTvdbidXrefComplete.json A complete Xref of Trakt_id vs Tvdb_id, as extracted from Trakt.tv series records that have a tvdb_id, and manually supplemented by additional thetvdb lookups, for those Trakt.tv series records that are missing tvdb_ids. Created in case Trakt.tv decide to drop tvdb_id altogether.    
+- TraktidTvdbidXref.json contains manually curated Trakt_id vs tvdb_id, via a manual thetvdb lookup for those Trakt.tv series records that are missing tvdb_ids.      
